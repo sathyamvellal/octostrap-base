@@ -1,0 +1,8 @@
+*
+!*/
+!sass/**/*
+!source/**/*
+!.gitignore
+!README.md
+source/_stash
+source/stylesheets/screen.css
