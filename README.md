@@ -1,4 +1,4 @@
-OCTOPRESS-BASE
+OCTOSTRAP-BASE
 ==============
 
 A very basic and minimal octopress setup with bootstrap-sass
